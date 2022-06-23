@@ -1,0 +1,113 @@
+.cuerpo{
+    background: linear-gradient(to left, pink, purple);
+}
+.s1{
+    display: flex;
+    text-align: center;
+}
+.s12{
+    width: 280px;
+    height: 60px;
+    background-color: yellow;
+    margin: auto;
+}
+.s2{
+    margin-top: 20px;
+    display: flex;
+}
+.s21{
+    width: 66%;
+    height: 200px;
+    background-image: url(tacos.jpg);
+}
+.s211{
+    margin-top: 60px;
+}
+.h1s21{
+    text-align: center;
+    margin-left: 20px;
+    width: 170px;
+    background-color: yellow;
+    font-family: sans-serif;
+}
+.ps21{
+    text-align: center;
+    margin-left: 20px;
+    width: 140px;
+    background-color: yellow;
+    font-family: sans-serif;
+}
+.s22{
+    text-align: center;
+    margin-left: 45px;
+}
+.s221{
+    height: 85px;
+    width: 400px;
+    background-color: yellow;
+}
+.h1s221{
+    margin-top: 10px;
+    font-size: 20px;
+}
+.s3{
+    display: flex;
+    text-align: center;
+}
+.s31{
+    background-color: white;
+    height: 180px;
+    margin: auto;
+    width: 350px;
+    margin-top: 20px;
+}
+.imgs31{
+    margin-top: 10px;
+}
+.s4{
+    display: flex;
+    background-color: white;
+    width: 99%;
+    margin: auto;
+    margin-top: 20px;
+}
+.s42{
+    margin-left: 20px;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+.buts42{
+    background-color: yellow;
+    color: rgb(121, 121, 0);
+    width: 120px;
+    height: 50px;
+}
+.menu{
+    background-color:whitesmoke;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    font-size: 20px;
+    font-family: sans-serif;
+}
+.menu_lista{
+    display:flex;
+    list-style: none;
+    color:black;
+    font-family: sans-serif;
+}
+.card__boton{
+    background-color:rgb(255, 255, 73);
+    height: 50px;
+    width: 250px;
+    font-family: sans-serif;
+    color: rgb(0, 0, 0);
+    margin-bottom: 40px;
+    font-size: 20px;
+    margin-left: 3%;
+
+}
+.texto{
+    font-family: sans-serif;
+}
